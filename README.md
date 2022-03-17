@@ -15,4 +15,5 @@ Quick info about me:
 
 ![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogdylan98&count_private=true)
 
+Technologies: 
 <img align='left' alt='Javascript' width='30px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
