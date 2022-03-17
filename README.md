@@ -9,7 +9,7 @@ Quick info about me:
 - 👯 I’m looking to collaborate on full-stack web development projects
 - 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about film, music, televsion, or any of my public repositiories!
-- 📫 How to reach me: [Linkedin] (https://www.linkedin.com/in/rdylan-silva/) [My Website](https://rogdylan98.github.io/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rdylan-silva/) [My Website](https://rogdylan98.github.io/)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I made it to Master elo in the game Teamfight Tactics and I love to play all sorts of card and video games! 
 
