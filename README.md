@@ -5,9 +5,9 @@
 Quick facts about me:
 
 - 🔭 I’m currently working on a new project called Don't Ask Jeeves!
-- 🌱 I’m currently learning how to solve Data Structures and Algorithm problems using Python
+- 🌱 I’m currently learning how to solve Data Structures and Algorithm problems using Python as well as learning Typescript and C#
 - 👯 I’m looking to collaborate on full-stack web development projects
-- 🤔 I’m looking for help with Kubernetes
+- 🤔 I’m looking for help with Typescript
 - 💬 Ask me about film, music, televsion, or any of my public repositiories!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rdylan-silva/), [My Website](https://rogdylan98.github.io/)
 - 😄 Pronouns: he/him/his
