@@ -4,7 +4,7 @@
 
 Quick facts about me:
 
-- 🤔 I’m looking for help with Typescript
+- 🤔 I’m currently learning Typescript
 - 💬 Ask me about film, music, televsion, or any of my public repositiories!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rdylan-silva/), [My Website](https://rogdylan98.github.io/)
 - 😄 Pronouns: he/him/his
